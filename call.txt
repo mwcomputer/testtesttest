@@ -1,0 +1,1 @@
+source Markus_testserver/mwc_test.sql
